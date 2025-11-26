@@ -24,3 +24,4 @@ This project is built with:
 - Tailwind CSS
 
 
+Portfolio link: https://portfolio-main-1wus.vercel.app/
